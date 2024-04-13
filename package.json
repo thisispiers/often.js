@@ -1,0 +1,22 @@
+{
+  "name": "often",
+  "version": "1.0.0",
+  "description": "A replacement for setInterval that pauses when the document is hidden",
+  "main": "often.js",
+  "author": "thisispiers",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisispiers/often.js.git"
+  },
+  "keywords": [
+    "setinterval",
+    "timer",
+    "repeat",
+    "loop"
+  ],
+  "bugs": {
+    "url": "https://github.com/thisispiers/often.js/issues"
+  },
+  "homepage": "https://github.com/thisispiers/often.js#readme"
+}
